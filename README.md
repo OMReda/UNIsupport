@@ -1,6 +1,6 @@
 ![UNIsupport Banner](file:///C:/Users/r3d4/.gemini/antigravity/brain/4354a809-a887-4c92-a74f-c63daeaeb025/unisupport_minimalist_banner_v2_1768606331450.png)
 
-# 🛡️ UNIsupport
+𝗨𝗡𝗜𝘀𝘂𝗽𝗽𝗼𝗿𝘁
 
 **UNIsupport** is a modern, high-performance web-based ticket support platform specifically designed for institutional environments. It provides a seamless interface for Students, Teachers, Agents, and Administrators to manage, resolve, and audit technical and academic requests.
 
@@ -87,4 +87,4 @@ We use the built-in PHP development server (`-S`) because it is **portable** and
 > [!TIP]
 > Log in as `admin@uni.ma` to access the full Dashboard and Audit Logs management.
 
-Developed with ❤️ by **OMRed**
+Developed by **OMRed**
