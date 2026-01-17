@@ -2,9 +2,10 @@
 # 🛡️ UNIsupport
 
 **UNIsupport** is a modern, high-performance web-based ticket support platform specifically designed for institutional environments. It provides a seamless interface for Students, Teachers, Agents, and Administrators to manage, resolve, and audit technical and academic requests.
+
+
 (IMPORTANT : put VENDOR folder inside UNIsupport)
 ---
-
 ## ✨ Key Features
 
 - **🛡️ Multi-Role Architecture**: Tailored interfaces and permissions for Students, Teachers, Support Agents, and Administrators.
