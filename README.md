@@ -85,5 +85,5 @@ We use the built-in PHP development server (`-S`) because it is **portable** and
 
 > [!TIP]
 > Log in as `admin@uni.ma` to access the full Dashboard and Audit Logs management.
-
+> (10 - 40 seconds to load)
 Developed by **OMRed**
